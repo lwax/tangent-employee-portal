@@ -1,1 +1,3 @@
-/Users/lwandile/Projects/EmployeePortal/backend/src/test/java/za/co/tangentsolutions/controller/EmployeeControllerTest.java
+/Users/lwandile/Projects/EmployeePortalV3/backend/src/test/java/za/co/tangentsolutions/employeeportal/EmployeePortalApplicationTests.java
+/Users/lwandile/Projects/EmployeePortalV3/backend/src/test/java/za/co/tangentsolutions/employeeportal/controller/EmployeeControllerTest.java
+/Users/lwandile/Projects/EmployeePortalV3/backend/src/test/java/za/co/tangentsolutions/employeeportal/services/EmployeePortalServiceTest.java

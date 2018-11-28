@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "employee-portal",
+                "projectName": "employee-portal",
+                "workingDirectory": "/Users/lwandile/Projects/EmployeePortalV2/backend",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "employee-portal",
+                "projectName": "employee-portal",
+                "workingDirectory": "/Users/lwandile/Projects/EmployeePortalV2/backend",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
